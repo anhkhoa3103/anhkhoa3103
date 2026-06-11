@@ -32,8 +32,8 @@ A branching narrative for a Marxist philosophy final. Four cognitive tiers. Mult
 
 ### Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=default&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anhkhoa3103&show_icons=true&hide_border=true&theme=default&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoa3103&layout=compact&hide_border=true&theme=default)
 
 ---
 
