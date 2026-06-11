@@ -38,5 +38,5 @@ A branching narrative for a Marxist philosophy final. Four cognitive tiers. Mult
 
 Former RPA intern @ FPT Software Philippines · Top 13% nationally · 30% merit scholarship
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakhoa3135/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nguynanhkhoa.cv@email.com)
