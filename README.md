@@ -1,4 +1,4 @@
-# Nguyễn Hữu Khoa
+# Nguyễn Anh Khoa
 
 Software Engineering student @ FPT University, Ho Chi Minh City.
 Building things with Java, C#, TypeScript — and occasionally turning philosophy into playable stories.
@@ -10,15 +10,15 @@ Building things with Java, C#, TypeScript — and occasionally turning philosoph
 **[SignTales](https://sign-tales.com)** — Online sign language learning platform  
 `ASP.NET Core` `React` `TypeScript` `Supabase`
 
+**[Vietnam History Discovery](https://github.com/Vietnam-History-Discovery)** — Interactive platform for exploring Vietnamese history through a knowledge graph built from *Đại Việt Sử Ký Toàn Thư*. Entities (people, events, places) extracted and stored as nodes in Neo4j AuraDB, queried via GraphRAG.  
+`Python` `Java` `React` `Spring Boot (Microservices)` `Neo4j AuraDB` `GraphRAG`
+
 **[Phụ Tử](https://toaannhanthuc.vercel.app/)** — Vietnamese philosophical visual novel  
 A branching narrative for a Marxist philosophy final. Four cognitive tiers. Multiple endings.  
 `React` `Vite`
 
 **Gender Health System** — Full-stack web app with JWT auth & Google OAuth2  
 `Spring Boot` `React` *(not deployed)*
-
-**GraphRAG on Vietnamese Historical Text** — Research comparing Naive RAG vs. GraphRAG on *Đại Việt Sử Ký Toàn Thư*  
-`Python` `Neo4j` `Llama 3.3 70B`
 
 ---
 
