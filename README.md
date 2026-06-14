@@ -17,7 +17,7 @@ Building things with Java, C#, TypeScript — and occasionally turning philosoph
 A branching narrative for a Marxist philosophy final. Four cognitive tiers. Multiple endings.  
 `React` `Vite`
 
-**Gender Health System** — Full-stack web app with JWT auth & Google OAuth2  
+**[Gender Health System](https://github.com/anhkhoa3103/Gender_Health_Project)** — Full-stack web app with JWT auth & Google OAuth2  
 `Spring Boot` `React` *(not deployed)*
 
 ---
