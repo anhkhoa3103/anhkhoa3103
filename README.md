@@ -10,7 +10,7 @@ Building things with Java, C#, TypeScript — and occasionally turning philosoph
 **[SignTales](https://sign-tales.com)** — Online sign language learning platform  
 `ASP.NET Core` `React` `TypeScript` `Supabase`
 
-**[Vietnam History Discovery](https://github.com/Vietnam-History-Discovery)** — Interactive platform for exploring Vietnamese history through a knowledge graph built from *Đại Việt Sử Ký Toàn Thư*. Entities (people, events, places) extracted and stored as nodes in Neo4j AuraDB, queried via GraphRAG.  
+**[Vietnam History Discovery](https://github.com/Vietnam-History-Discovery)** **[Deployed](https://vietnam-history-frontend.onrender.com/)** — Interactive platform for exploring Vietnamese history through a knowledge graph built from *Đại Việt Sử Ký Toàn Thư*. Entities (people, events, places) extracted and stored as nodes in Neo4j AuraDB, queried via GraphRAG.  
 `Python` `Java` `React` `Spring Boot (Microservices)` `Neo4j AuraDB` `GraphRAG`
 
 **[Phụ Tử](https://toaannhanthuc.vercel.app/)** — Vietnamese philosophical visual novel  
