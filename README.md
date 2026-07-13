@@ -1,7 +1,7 @@
 # Nguyễn Anh Khoa
 
 Software Engineering student @ FPT University, Ho Chi Minh City.
-Building things with Java, C#, TypeScript — and occasionally turning philosophy into playable stories.
+Building things with Java Javascriot, TypeScript.
 
 ---
 
@@ -24,7 +24,7 @@ A branching narrative for a Marxist philosophy final. Four cognitive tiers. Mult
 
 ### Stack
 
-`Java` `C#` `TypeScript` `Python` `Dart`  
+`Java` `Javascript` `TypeScript` `Python` `Dart`  
 `Spring Boot` `ASP.NET Core` `React` `Flutter`  
 `PostgreSQL` `Supabase` `Neo4j` `Docker`
 
@@ -36,7 +36,7 @@ A branching narrative for a Marxist philosophy final. Four cognitive tiers. Mult
 
 ---
 
-Former RPA intern @ FPT Software Philippines · Top 13% nationally · 30% merit scholarship
+Former RPA intern @ FPT Software Philippines · 30% merit scholarship
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakhoa3135/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nguynanhkhoa.cv@email.com)
