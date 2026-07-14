@@ -34,12 +34,6 @@ A branching narrative for a Marxist philosophy final. Four cognitive tiers. Mult
 
 ---
 
-### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoa3103&layout=compact&hide_border=true&theme=default)
-
----
-
 Former RPA intern @ FPT Software Philippines · 30% merit scholarship
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakhoa3135/)
